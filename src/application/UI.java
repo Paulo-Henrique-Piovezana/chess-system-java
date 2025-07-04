@@ -64,8 +64,8 @@ public class UI {
 			}
 		}
 		else {
-			System.out.println("Check Mate");
-			System.out.println("Winner: " + chessMatch.getCurrentPlayer());
+			System.out.println("CHECKMATE");
+			System.out.println("WINNER: " + chessMatch.getCurrentPlayer());
 		}
 	}
 
